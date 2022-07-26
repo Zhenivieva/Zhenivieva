@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Zhenivieva's 42 stats](https://badge42.herokuapp.com/api/stats/mmaryjan)](https://github.com/JaeSeoKim/badge42)
+[![mmaryjan's 42 stats](https://badge42.vercel.app/api/v2/cl620u2l6003009meenhmz4yl/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 ![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhenivieva&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
