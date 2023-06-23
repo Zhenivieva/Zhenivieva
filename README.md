@@ -2,7 +2,7 @@
 Привет! Я начинающий Python-разработчик и аналитик данных.
 Выпускница Школы программирования Ecole 42, Paris (Школа программирования 21, Казань) по программе: Architect in digital technologies.
 Прошла профессинальную переподготову на Аналитика данных в Яндекс-Практикуме.   
-Начинающий Python-разработчик и аналитик данных.
+
 <!--
 **Zhenivieva/Zhenivieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
